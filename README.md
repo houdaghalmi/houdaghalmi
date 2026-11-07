@@ -72,17 +72,6 @@ Open to collaborations, freelance work, and tech talk 🤝
 
 <br/>
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[SaverTounsi](https://github.com/houdaghalmi/SaverTounsi)** |Budgeting Web platform built during a 2025 development internship | Next.js/TypeScript |
-| **[saver-tounsi-mobile](https://github.com/houdaghalmi/saver-tounsi-mobile)** | Native Android companion app | Java |
-| **[isetkr-family](https://github.com/houdaghalmi/isetkr-family)** | Club and Event Management Platform | Blade / Laravel |
-| **[sanefli](https://github.com/houdaghalmi/sanefli)** |  Recipe Suggestion App | Blade / Laravel |
-| **[foodie-order](https://github.com/houdaghalmi/foodie-order)** | Cross-platform food ordering app | Flutter / Dart |
-
-<br/>
 
 ## 📊 GitHub Stats
 
